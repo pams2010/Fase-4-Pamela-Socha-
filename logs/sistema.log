@@ -1,0 +1,16 @@
+2026-11-22 18:36:37,619 - INFO - Cliente registrado correctamente.
+2026-11-22 18:36:37,620 - INFO - Cliente registrado correctamente.
+2026-11-22 18:36:37,621 - ERROR - Cliente invalido: La identificación y el nombre son obligatorios.
+2026-11-22 18:36:37,622 - INFO - Servicio registrado correctamente.
+2026-11-22 18:36:37,622 - INFO - Servicio registrado correctamente.
+2026-11-22 18:36:37,623 - INFO - Servicio registrado correctamente.
+2026-11-22 18:36:37,623 - ERROR - Servicio invalido: El precio debe ser mayor que cero.
+2026-11-22 18:36:37,624 - INFO - Reserva registrada correctamente.
+2026-11-22 18:36:37,624 - ERROR - Reserva incorrecta: La duracion ingresada no es valida.
+2026-11-22 18:36:37,625 - ERROR - Excepcion personalizada: Prueba de error controlado.
+2026-11-22 18:36:37,625 - INFO - Finalizo la prueba de excepciones.
+2026-11-22 18:36:37,626 - INFO - Calculo realizado correctamente.
+2026-11-22 18:36:37,627 - INFO - Reserva registrada correctamente.
+2026-11-22 18:36:37,627 - ERROR - Error buscando cliente: Cliente no encontrado.
+2026-11-22 18:36:37,628 - ERROR - Busqueda fallida: No existe un cliente con esa identificacion.
+2026-11-22 18:36:37,630 - INFO - Sistema Software FJ finalizado.
